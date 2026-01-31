@@ -112,14 +112,4 @@ Contributions are welcome. Please open an issue to discuss major changes before 
 3. Commit tests and changes
 4. Open a pull request
 
-## License
 
-This project does not include a license file by default. Add a `LICENSE` file if you intend to make this open source (for example, MIT, Apache-2.0, etc.).
-
-## Contact
-
-Project maintained by AJpacific. For questions, open an issue or contact the maintainer via GitHub.
-
----
-
-If you'd like, I can also add a `.gitignore`, `LICENSE`, or CI workflow next.
